@@ -1,0 +1,7 @@
+{
+  "name": "Yunma Edukasi Digital",
+  "description": "Koleksi game edukasi digital interaktif anak Indonesia - matematika, bahasa, sains, dan coding dengan akses instan dan laporan kemajuan orang tua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
